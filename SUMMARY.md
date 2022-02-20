@@ -8,6 +8,7 @@
   * [Render](documentation/cheat/render.md)
   * [Cheat](documentation/cheat/cheat.md)
   * [Cheat Variables](documentation/cheat/cheat-variables.md)
+  * [Menu](documentation/cheat/menu.md)
   * [Utils](documentation/cheat/utils.md)
 * [Source SDK](documentation/source-sdk/README.md)
   * [Types](documentation/source-sdk/types/README.md)
