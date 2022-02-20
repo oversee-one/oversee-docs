@@ -22,8 +22,8 @@ Example:
 
 ```
 local something_color = Colow.new(255, 0, 0)
-local red   = something_color.red( )  -- 0
-local green = something_color.green( )-- 255
+local red   = something_color.red( )  -- 255
+local green = something_color.green( )-- 0
 local blue  = something_color.blue( ) -- 0
 ```
 
