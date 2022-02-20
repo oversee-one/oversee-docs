@@ -1,4 +1,4 @@
-# Cheat Vars
+# Cheat
 
 ### Add Callback
 
