@@ -3,11 +3,11 @@
 ### Add Callback
 
 Performing a function in a particular game function\
-Input: name of callback, function \
+Input: GLOBAL_SCRIPTID, name of callback, function \
 Example:
 
 ```lua
-g_Cheat.AddCallBack("Draw", function() 
+g_Cheat.AddCallBack(GLOBAL_SCRIPTID, "Draw", function() 
   -- something
 end)
 ```
